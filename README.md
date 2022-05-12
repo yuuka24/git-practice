@@ -1,1 +1,1 @@
-hoge
+strawberry
